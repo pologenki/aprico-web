@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pologenki.github.io/aprico-web/sitemap.xml
